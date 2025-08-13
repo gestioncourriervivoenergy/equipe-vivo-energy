@@ -60,8 +60,8 @@ Nous mettons l’innovation au service de la performance énergétique, avec des
 
 ## 📈 Statistiques GitHub
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME&show_icons=true&theme=radical)
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME&layout=compact&theme=radical)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=gestioncourriervivoenergy&show_icons=true&theme=radical)
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=gestioncourriervivoenergy&layout=compact&theme=radical)
 
 ---
 
