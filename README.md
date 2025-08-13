@@ -1,5 +1,6 @@
 <!-- Bannière -->
-<img src="https://imgur.com/a/wi6Qt6o" alt="Vivo Energy Data Team Banner" width="100%">
+<img src="https://i.imgur.com/vZPlaQ2.png" alt="Vivo Energy Data Team Banner" width="100%">
+
 
 # 👋 Bienvenue sur le profil **Data Team – Vivo Energy** 
 
