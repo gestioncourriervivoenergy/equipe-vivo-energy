@@ -51,7 +51,7 @@ Nous mettons l’innovation au service de la performance énergétique, avec des
 
 ## 📬 Contact
 
-📧 Email : **data@vivoenergy.com**  
+📧 Email : **gestioncourriervivoenergy@gmail.com**  
 💼 LinkedIn : [Vivo Energy](https://www.linkedin.com/company/vivo-energy)  
 🌐 Site : [www.vivoenergy.com](https://www.vivoenergy.com)  
 
