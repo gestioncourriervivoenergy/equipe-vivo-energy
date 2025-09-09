@@ -1,7 +1,7 @@
 <!-- Bannière -->
 
 
-# 👋 Bienvenue sur le profil **Data Team – Vivo Energy** 
+# 👋 Bienvenue sur le profil **IdrissLab** 
 
 💡 **Notre mission** : Transformer la donnée en **valeur stratégique** pour guider les décisions et booster la performance.
 
