@@ -52,8 +52,8 @@ Nous mettons l’innovation au service de la performance énergétique, avec des
 ## 📬 Contact
 
 📧 Email : **gestioncourriervivoenergy@gmail.com**  
-💼 LinkedIn : [Vivo Energy](https://www.linkedin.com/company/vivo-energy)  
-🌐 Site : [www.vivoenergy.com](https://www.vivoenergy.com)  
+ 
+
 
 ---
 
@@ -65,4 +65,4 @@ Nous mettons l’innovation au service de la performance énergétique, avec des
 ---
 
 > ⚡ **"Les données ne mentent pas, elles racontent une histoire."**  
-> – Équipe Data Vivo Energy
+> – Équipe IdrissLab
